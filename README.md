@@ -1,1 +1,1 @@
-# Hand_Pose_Detection_Tutorial-
+# Hand_Pose_Detection_Tutorial
